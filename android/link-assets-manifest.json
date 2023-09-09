@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-Regular.ttf",
+      "sha1": "87895edbc9fc86c8e3a4e28950e9d2994cc68886"
+    },
+    {
+      "path": "src/assets/fonts/Oswald-Regular.ttf",
+      "sha1": "d16c1dcb19e0e7572d2dea9d7445c0506c20b25d"
+    }
+  ]
+}
